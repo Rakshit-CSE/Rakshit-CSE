@@ -1,4 +1,4 @@
-<h2 align="left">Hi! I'm RAKSHIT, a Future Innovator from Patna, Bihar. 👋</h2>
+<h1 align="left">Hi! I'm RAKSHIT, a Future Innovator from Patna, Bihar. 👋</h1>
 
 ###
 
